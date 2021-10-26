@@ -24,8 +24,9 @@ ui <- fluidPage(
                        games_lst)
            ),
     column(3,
-           actionButton('btn_fws', 'Next Move'),
-           actionButton('btn_bck', 'Previous Move'))
+           actionButton('btn_bck', 'Previous Move'),
+		   actionButton('btn_fws', 'Next Move')
+           )
   )
   
   )
