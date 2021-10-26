@@ -37,7 +37,7 @@ docker run \
     /bin/bash -c "cd ~/project; Rscript shiny_carlsen.R"
 ``` 
 
-Once again, upon succesful launching of the container the app will be accessible from any browser at `localhose:8080`.
+Once again, upon succesful launching of the container the app will be accessible from any browser at `localhost:8080`.
 
 * * * 
 
