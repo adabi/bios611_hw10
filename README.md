@@ -1,4 +1,4 @@
-# Magnus Carlsen Games Visualize 
+# Magnus Carlsen Games Visualizer 
 
 ## Overview
 
